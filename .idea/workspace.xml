@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5b59f09-bc6e-44ef-9e89-825dd6d8989c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/AbstractTabulatedFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/ArrayTabulatedFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/ArrayTabulatedFunctionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/CompositeFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/ConstantFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/IdentityFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/Insertable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/LinkedListTabulatedFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/LinkedListTabulatedFunctionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/MathFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/Removable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/SqrFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/TabulatedFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/TabulatedFunctionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/UnitFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/ZeroFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/functions/AbstractTabulatedFunctionMockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/functions/ArrayTabulatedFunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/functions/BasicFunctionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/functions/CompositeFunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/functions/FactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/functions/IdentityFunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/functions/LinkedListTabulatedFunctionTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="35vhtoF3Z9vwqzLYgXjfAkCSwvI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/A_24/IdeaProjects/labaoop/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5b59f09-bc6e-44ef-9e89-825dd6d8989c" name="Changes" comment="" />
+      <created>1763996673293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763996673293</updated>
+    </task>
+    <servers />
+  </component>
+</project>
