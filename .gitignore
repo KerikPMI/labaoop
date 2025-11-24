@@ -1,0 +1,14 @@
+# IDEA files
+.idea/
+*.iml
+out/
+
+# Build files
+target/
+build/
+*.class
+*.jar
+
+# System files
+.DS_Store
+Thumbs.db
